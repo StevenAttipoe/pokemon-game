@@ -1,0 +1,13 @@
+.cards-component{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/591fcc11-c839-4354-b150-831c089d99c6/d67o1ov-0d176518-d16d-452f-918b-06bd16172bae.png/v1/fill/w_800,h_373,q_80,strp/background_art___stadium_by_foriegnbacon_d67o1ov-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzczIiwicGF0aCI6IlwvZlwvNTkxZmNjMTEtYzgzOS00MzU0LWIxNTAtODMxYzA4OWQ5OWM2XC9kNjdvMW92LTBkMTc2NTE4LWQxNmQtNDUyZi05MThiLTA2YmQxNjE3MmJhZS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.X_QePcYuNMQWEDgQo-rcI5WCbhNXo_OXjBACGH8cC7Q");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+}
+
+app-card{
+    padding-top: 9rem;
+    padding-left: 6rem;
+}
